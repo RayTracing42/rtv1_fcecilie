@@ -1,0 +1,45 @@
+camera
+{
+	origin : (-200, 40, 0)
+	rotation : (0, 0, 0)
+}
+
+object plan
+{
+	origin : (0, -200, 0)
+	rotation : (0, 1, 0)
+	color : (150, 150, 150)
+}
+
+object sphere
+{
+	origin : (400, 0, -150)
+	rayon : (40)
+	color : (0, 0, 255)
+}
+
+object sphere
+{
+	origin : (400, 0, 0)
+	rayon : (40)
+	color : (0, 255, 0)
+}
+
+object sphere
+{
+	origin : (400, 0, -300)
+	rayon : (40)
+	color : (255, 0, 0)
+}
+
+light spot
+{
+	origin : (400, 100, -300)
+	color : (255, 255, 255)
+}
+
+light spot
+{
+	origin : (400, 100, 300)
+	color : (255, 255, 255)
+}

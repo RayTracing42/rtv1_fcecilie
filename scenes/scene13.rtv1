@@ -1,0 +1,26 @@
+camera
+{
+	origin : (-200, 100, 0)
+	rotation : (0, 0, 0)
+}
+
+object plan
+{
+	origin : (0, 0, 0)
+	rotation : (0, 1, 0)
+	color : (255 255 255)
+}
+
+object cone
+{
+	origin : (200, 50, 100)
+	rotation : (30, 0, 0)
+	rayon : (25)
+	color : (0, 0, 255)
+}
+
+light spot
+{
+	origin : (200, 100, -100)
+	color : (255, 255, 255)
+}

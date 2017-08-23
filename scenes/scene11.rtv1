@@ -1,0 +1,39 @@
+camera
+{
+	origin : (0, 10, 0)
+	rotation : (0, 0, 0)
+}
+
+object plan
+{
+	origin : (100, 0, 0)
+	rotation : (0, 1, 0)
+	color : (255, 0, 0)
+}
+
+object plan
+{
+	origin : (100, 0, 0)
+	rotation : (0, 1, 0)
+	color : (255, 0, 0)
+}
+
+object plan
+{
+	origin : (100, 0, 0)
+	rotation : (0, 1, 0)
+	color : (255, 0, 0)
+}
+
+object plan
+{
+	origin : (100, 0, 0)
+	rotation : (0, 1, 0)
+	color : (255, 0, 0)
+}
+
+light spot
+{
+	origin : (100, 10, 0)
+	color : (0, 0, 255)
+}

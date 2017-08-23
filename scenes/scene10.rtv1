@@ -1,0 +1,26 @@
+camera
+{
+	origin : (-200 0 0)
+	rotation : (0 0 0)
+}
+
+object cylindre
+{
+	origin : (100 100 200)
+	rayon : (50)
+	rotation : (0 0 0)
+	color : (255 0 0)
+}
+object cone
+{
+	origin : (100 100 -200)
+	rayon : (10)
+	rotation : (0 0 0)
+	color : (255 0 0)
+}
+
+light spot
+{
+	origin : (100 -100 0)
+	color : (0 0 255)
+}
